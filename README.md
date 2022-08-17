@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Terence Dixon! - Front End Developer/Software Developer
-#### *Tenacity* and **motivation**
+## Hi there 👋, my name is Terence Dixon! - Front End Developer/Software Developer
+### *Tenacity* and **motivation**
 
 [Banner image](https://github.com/ObsidianAsphodel/ObsidianAsphodel/blob/main/FishOfSloth2.png)
 
