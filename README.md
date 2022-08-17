@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Terence Dixon! - Front End Developer/Software Developer
 ### *Tenacity* and **motivation**
 
-[Banner image](https://user-images.githubusercontent.com/12488175/185210039-c400cf95-a050-43a1-8950-f9aa526f2fa2.png)
+https://user-images.githubusercontent.com/12488175/185210039-c400cf95-a050-43a1-8950-f9aa526f2fa2.png
 
 After many years working Retail and in warehouses, a career change was in order. For as long as I can remember, I've always wanted to be a programmer. The First Robotics Competition was my first foray into programming, and my interest only grew in size. As the years went by, I would dive into game development, developing in Unity using C#. But my first big push into the industry was learning front end development. 
 
