@@ -1,4 +1,5 @@
 ## Hi there 👋, my name is Terence Dixon! - Front End Developer/Software Developer
+- 😄 Pronouns: He/Him/His 
 ### *Tenacity* and **motivation**
 
 ![Banner Image](https://user-images.githubusercontent.com/12488175/185210039-c400cf95-a050-43a1-8950-f9aa526f2fa2.png)
@@ -20,7 +21,6 @@ Skills:
 
 
 - 🌱 I’m currently learning Front End Development through the Promineo Tech Bootcamp 
-- 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I'm also an illustrator/ 3d modeler! 
 
 
