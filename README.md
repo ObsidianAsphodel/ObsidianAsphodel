@@ -1,6 +1,7 @@
 ### Hi there 👋, Terence Dixon - Front End Developer/Software Developer
 #### *Tenacity* and **motivation**
-(https://github.com/ObsidianAsphodel/ObsidianAsphodel/blob/main/FishOfSloth2.png)
+!(https://github.com/ObsidianAsphodel/ObsidianAsphodel/blob/main/FishOfSloth2.png)
+
 After many years working Retail and in warehouses, a career change was in order. For as long as I can remember, I've always wanted to be a programmer. The First Robotics Competition was my first foray into programming, and my interest only grew in size. As the years went by, I would dive into game development, developing in Unity using C#. But my first big push into the industry was learning front end development. 
 
 Skills: HTML / CSS / Javascript / Boostrap / JQuery / React / C# / Unity
