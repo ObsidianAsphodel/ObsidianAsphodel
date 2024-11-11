@@ -1,4 +1,4 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, my name is Terence Dixon! - Front End Developer/Software Developer
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, my name is Terence Dixon! - Jack of All Trades Creatives with an interest in Software Development, Game Development and 3D Modeling.
 - 😄 Pronouns: He/Him/His 
 ### *Tenacity* and **motivation**
 ## **About**:
@@ -23,7 +23,7 @@ I'm excited to finally enter into the industry and start on my path to becoming 
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
-- 🌱 I’m currently learning Front End Development through the Promineo Tech Bootcamp 
+- 🌱 Currently working and living in the San Francisco Bay Area!
 - ⚡ Fun fact: I'm also an Illustrator / 3d modeler! 
 
 
